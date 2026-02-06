@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://hrh0410.github.io/">Steph.H</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
-  <h3>Ronghao Huang &nbsp;·&nbsp; Undergraduate Student &nbsp;·&nbsp; NJU · Suzhou</h3>
+  <h3>Ronghao Huang &nbsp;·&nbsp; NJU &nbsp;·&nbsp; Suzhou</h3>
 </div>
 
 <hr />
@@ -10,12 +10,12 @@
     <td width="55%" valign="top">
 
 #### 👨🏻‍💻 About me
-I am an undergraduate student at **Nanjing University** currently exploring **Artificial Intelligence and AIGC**.
+I'm a third-year undergraduate student at **Nanjing University**, currently exploring **Artificial Intelligence and AIGC**.
 
 
-#### 🚀 What I’m focusing on
+#### 🚀 What I’m Interested in
 - 🤖 **AI agents & AIGC**
-- 🎨 **Creative tech**
+- 🎨 **Creative & Advanced tech**
 - 🛠 Turning ideas into **practical, usable projects**
 
 #### 🌍 Beyond code
