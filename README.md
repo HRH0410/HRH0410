@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://hrh0410.github.io/">Steph.H</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
-  <h3>Ronghao Huang &nbsp;·&nbsp; NJU , Suzhou</h3>
+  <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Ronghao Huang &nbsp;｜&nbsp; 📍 NJU , Suzhou</h3>
 </div>
 
 <hr />
@@ -19,7 +19,7 @@ I'm a third-year undergraduate student at **Nanjing University**, currently expl
 - 🛠 Turning ideas into practical, usable projects
 
 ### 🌍 Beyond code
-<ul style="margin-top: 0; padding-top: 0; margin-bottom: 8px;">
+<ul style="margin-top: 0; padding-top: 0; margin-bottom: 12px;">
   <li>🔭 Observing the world at a slow pace</li>
   <li>🎵 Music, travel, and quiet moments of reflection</li>
 </ul>
