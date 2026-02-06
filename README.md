@@ -20,13 +20,13 @@
 
 ### About me
 
-I am an undergraduate student currently exploring **Artificial Intelligence and AIGC**.  
-I use this space to **build projects**, **document what I learn**, and **think about how models meet the real world**.
+I am an undergraduate student at Nanjing University currently exploring **Artificial Intelligence and AIGC**.  
+
 
 ### What I’m focusing on
 
-- 🤖 AI agents and intelligent systems  
-- 🧠 Model behavior, uncertainty, and interpretability  
+- 🤖 AI agents 
+- 🎨 AIGC  
 - 🛠 Turning ideas into practical, usable projects  
 
 ### Beyond code
