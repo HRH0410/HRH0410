@@ -18,7 +18,6 @@ I'm a third-year undergraduate student at **Nanjing University**, currently expl
 -  Turning ideas into practical, usable projects
 
 ### 🌍 Beyond code
-- Observing the world at a slow pace
 - Music, travel, and quiet moments of reflection
 
   </td>
