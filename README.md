@@ -31,5 +31,5 @@ I'm a third-year undergraduate student at **Nanjing University**, currently expl
 <hr />
 
 <div align="center">
-  <b>Building</b> &nbsp;•&nbsp; <b>Learning</b> &nbsp;•&nbsp; <b>Exploring</b>
+  <em><font color="gray">Building &nbsp;·&nbsp; Learning &nbsp;·&nbsp; Exploring</font></em>
 </div>
