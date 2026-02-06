@@ -9,18 +9,20 @@
   <tr>
     <td width="55%" valign="top">
 
-#### 👨🏻‍💻 About me
+### 👨🏻‍💻 About me
 I'm a third-year undergraduate student at **Nanjing University**, currently exploring **Artificial Intelligence and AIGC**.
 
 
-#### 🚀 What I’m Interested in
-- 🤖 **AI agents & AIGC**
-- 🎨 **Creative & Advanced tech**
-- 🛠 Turning ideas into **practical, usable projects**
+### 🚀 What I’m Interested in
+- 🤖 AI agents & AIGC
+- 🎨 Creative & Advanced tech
+- 🛠 Turning ideas into practical, usable projects
 
-#### 🌍 Beyond code
-- 🔭 Observing the world at a **slow pace**
-- 🎵 Music, travel, and quiet moments of reflection
+### 🌍 Beyond code
+<ul style="margin-top: 0; padding-top: 0;">
+  <li>🔭 Observing the world at a slow pace</li>
+  <li>🎵 Music, travel, and quiet moments of reflection</li>
+</ul>
 
   </td>
     <td width="45%" align="center" valign="middle">
