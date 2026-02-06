@@ -19,7 +19,7 @@ I'm a third-year undergraduate student at **Nanjing University**, currently expl
 -  Turning ideas into practical, usable projects
 
 ### 🌍 Beyond code
-<ul style="margin-top: 0; padding-top: 0; margin-bottom: 12px;">
+<ul style="margin-top: 0; padding-top: 0; margin-bottom: 20px;">
   <li> Observing the world at a slow pace</li>
   <li> Music, travel, and quiet moments of reflection</li>
 </ul>
