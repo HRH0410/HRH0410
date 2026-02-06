@@ -18,7 +18,8 @@ I'm a third-year undergraduate student at **Nanjing University**, currently expl
 -  Turning ideas into practical, usable projects
 
 ### 🌍 Beyond code
-Music, travel, and quiet moments of reflection
+Music🎵, travel✈️, and quiet moments of reflection
+
 
   </td>
     <td width="45%" align="center" valign="middle">
