@@ -21,7 +21,6 @@ I'm a third-year undergraduate student at **Nanjing University**, currently expl
 - Observing the world at a slow pace
 - Music, travel, and quiet moments of reflection
 
-
   </td>
     <td width="45%" align="center" valign="middle">
       <img width="85%" alt="Coding desk illustration" src="coder.gif" />
