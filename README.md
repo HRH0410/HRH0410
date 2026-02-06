@@ -18,10 +18,9 @@ I'm a third-year undergraduate student at **Nanjing University**, currently expl
 -  Turning ideas into practical, usable projects
 
 ### 🌍 Beyond code
-<ul style="margin-top: 0; padding-top: 0; margin-bottom: 100px;">
-  <li> Observing the world at a slow pace</li>
-  <li> Music, travel, and quiet moments of reflection</li>
-</ul>
+- Observing the world at a slow pace
+- Music, travel, and quiet moments of reflection
+
 
   </td>
     <td width="45%" align="center" valign="middle">
@@ -29,8 +28,6 @@ I'm a third-year undergraduate student at **Nanjing University**, currently expl
     </td>
   </tr>
 </table>
-
-<div style="height: 36px;"></div>
 
 <hr />
 
