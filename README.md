@@ -1,41 +1,46 @@
 <div align="center">
   <h1>
-    Hi there, I'm <a href="https://hrh0410.github.io/">Steph.H</a> 
+    Hi there, I'm <a href="https://hrh0410.github.io/">Steph.H</a>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   </h1>
-</div>
-
-<br />
-
-<div align="center">
   <h3>
     Ronghao Huang · Undergraduate student exploring AI<br/>
     NJU · Suzhou
   </h3>
 </div>
 
-<br />
+<hr />
 
-<img align="right" height="300px" width="400px" alt="GIF" src="coder.gif" />
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      
+#### About me
 
-### About me
+I am an undergraduate student at Nanjing University currently exploring **Artificial Intelligence and AIGC**.
 
-I am an undergraduate student at Nanjing University currently exploring **Artificial Intelligence and AIGC**.  
+#### What I’m focusing on
 
+- 🤖 AI agents
+- 🎨 AIGC
+- 🛠 Turning ideas into practical, usable projects
 
-### What I’m focusing on
+#### Beyond code
 
-- 🤖 AI agents 
-- 🎨 AIGC  
-- 🛠 Turning ideas into practical, usable projects  
+- 🌍 Observing the world at a slow pace
+- 🎵 Music, travel, and quiet moments of reflection
 
-### Beyond code
+<br/>
 
-- 🌍 Observing the world at a slow pace  
-- 🎵 Music, travel, and quiet moments of reflection  
+  </td>
+    <td width="45%" align="center">
+      <img height="250px" alt="Coding desk illustration" src="coder.gif" />
+    </td>
+  </tr>
+</table>
 
-<br />
+<hr />
 
-<p align="center">
+<div align="center">
   <em>Building · Learning · Exploring</em>
-</p>
+</div>
