@@ -1,8 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://hrh0410.github.io/">Steph.H</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 <p align='center'>
@@ -27,7 +25,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="coder.gif" />
+<img align="right" height="300px" width="400px" alt="GIF" src="coder.gif" />
 <p align="center">
   <h3> I'm 21 years old AI learner from China.</h3>
 </p>
