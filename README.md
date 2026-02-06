@@ -17,8 +17,6 @@ I'm a third-year undergraduate student at **Nanjing University**, currently expl
 -  Creative & Advanced tech
 -  Turning ideas into practical, usable projects
 
-### 🌍 Beyond code
-Music🎵, travel✈️, and quiet moments of reflection
 
 
   </td>
